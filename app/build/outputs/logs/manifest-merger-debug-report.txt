@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\arqdsis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b1a6e43421822edae24721d8f9681c4\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\arqdsis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b1a6e43421822edae24721d8f9681c4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\arqdsis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b1a6e43421822edae24721d8f9681c4\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.usjt.desenvemob.activitylifecycle.ActivityA
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:13:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:17:27-74
+activity#br.usjt.desenvemob.activitylifecycle.ActivityB
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:21:9-47
+	android:name
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:21:19-44
+activity#br.usjt.desenvemob.activitylifecycle.ActivityC
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:22:19-44
+activity#br.usjt.desenvemob.activitylifecycle.DialogActivity
+ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:23:9-24:64
+	android:theme
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:24:13-61
+	android:name
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml:23:19-49
+uses-sdk
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\arqdsis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b1a6e43421822edae24721d8f9681c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\arqdsis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b1a6e43421822edae24721d8f9681c4\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arqdsis\Desktop\07.03.2018\ActivityLifeCycle-master\app\src\main\AndroidManifest.xml
